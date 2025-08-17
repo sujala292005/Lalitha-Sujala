@@ -1,4 +1,4 @@
-# Hi, I'm Sujala 👋
+# Hi, I'm Sujala 👋  
 
 🌩️ **Future Cloud Engineer & Tech Evangelist**  
 Focused on **Azure, Terraform, Python, and Snowflake** to design scalable cloud solutions.  
@@ -7,23 +7,26 @@ Focused on **Azure, Terraform, Python, and Snowflake** to design scalable cloud 
 
 ## 🚀 Projects  
 
-- [SafeRoute+](https://github.com/sujala292005/SafeRoutePlus) – AI + Cloud safety app for women (Azure + Python + React)  
-  *Status: In Progress (Phase 0 complete – frontend & backend wired up)*  
+- [SafeRoute+](https://github.com/lalitha-sujala/SafeRoutePlus)  
+  *AI + Cloud safety app for women (Azure + Python + React)*  
+  - Status: In Progress (Phase 0 complete – frontend & backend wired up)  
 
-- [FaceAuth Attendance]([https://github.com/yourusername/FaceAuth](https://github.com/sujala292005/FaceAuth-Attendance-)) – Serverless face recognition attendance system (Azure Face API + Blob Storage)  
-  *Repo created – development starting soon*  
+- [FaceAuth Attendance](https://github.com/lalitha-sujala/FaceAuth)  
+  *Serverless face recognition attendance system (Azure Face API + Blob Storage)*  
+  - Repo created – development starting soon  
 
-- [Multi-Tier Infra Deployment]([https://github.com/yourusername/MultiTierInfra](https://github.com/sujala292005/Multi-Tier-Infra-Deployment)) – Terraform project deploying load balancer, app, and DB tier on Azure  
-  *Repo created – development starting soon*  
+- [Multi-Tier Infra Deployment](https://github.com/lalitha-sujala/MultiTierInfra)  
+  *Terraform project deploying load balancer, app, and DB tier on Azure*  
+  - Repo created – development starting soon  
 
 ---
 
-## 📜 Learning Path (Certifications)  
+## 📜 Learning Path  
 
 Currently preparing for:  
-- Microsoft Azure Fundamentals (AZ-900)  
-- Microsoft Azure Administrator (AZ-104)  
-- Microsoft Azure Data Fundamentals (DP-900, optional)  
+- Microsoft Azure Fundamentals (**AZ-900**)  
+- Microsoft Azure Administrator (**AZ-104**)  
+- Microsoft Azure Data Fundamentals (**DP-900**, optional)  
 
 ---
 
@@ -36,6 +39,7 @@ Currently preparing for:
 - **Database / Analytics:** Snowflake  
 
 ---
+
 
 ## 📬 Let’s Connect  
 
