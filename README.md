@@ -26,7 +26,7 @@ Focused on **Azure, Terraform, Python, and Snowflake** to design scalable cloud 
 Currently preparing for:  
 - Microsoft Azure Fundamentals (**AZ-900**)  
 - Microsoft Azure Administrator (**AZ-104**)  
-- Microsoft Azure Data Fundamentals (**DP-900**, optional)  
+- Microsoft Azure Data Fundamentals (**DP-900**)  
 
 ---
 
