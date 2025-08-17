@@ -44,5 +44,5 @@ Currently preparing for:
 ## 📬 Let’s Connect  
 
 👤 Bhaskaruni Lalitha Sujala  
-🔗 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/lalitha-sujala-bhaskaruni-3a37572a7/))  
+🔗 [LinkedIn](https://www.linkedin.com/in/lalitha-sujala-bhaskaruni-3a37572a7/))  
 💻 [GitHub](https://github.com/sujala292005)  
